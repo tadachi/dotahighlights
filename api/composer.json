@@ -1,0 +1,6 @@
+{
+    "require": {
+        "klein/klein": "v2.0.1",
+        "php-console/php-console": "3.*"
+    }
+}
